@@ -57,3 +57,9 @@ menu.addEventListener('click', () => {
   const nav = document.querySelector('.navigation--js');
   nav.classList.toggle('navigation--open')
 })
+
+import moment from 'moment';
+import 'moment/locale/pl';
+moment.locale('pl');
+console.log(moment.locale());
+console.log(moment().format('LLLL'))
