@@ -1,4 +1,4 @@
-![cover](https://cotenfrontend.pl/img/cover.png)
+![Lista commitów] (./gh/commitsList.png)
 
 # WTF Webpack Starter Kit 
 
