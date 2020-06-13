@@ -1,4 +1,4 @@
-![Lista commitów] (./gh/commitsList.png)
+![Lista commitów](./gh/commitsList.png)
 
 # WTF Webpack Starter Kit 
 
