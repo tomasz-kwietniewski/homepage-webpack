@@ -53,8 +53,10 @@ p {
     color: white;
     display: block;
     margin: 0 0 16px;
+    transition: transform 1s linear;    
   }
-  &__link:hover {
+  &__link:hover {    
+    transform: scale(2);
     color: red;
   }
   &--open {
